@@ -181,6 +181,9 @@ Escolha de `DISTINCTCOUNT` para contagem de pedidos, evitando duplicatas em caso
    - Atualizar o caminho para o arquivo `Sample - Superstore.csv`
 4. Interagir com filtros e visuais para explorar os dados
 
+## 😉 Preview
+https://app.powerbi.com/view?r=eyJrIjoiNzFiZDRlN2ItMDk3MC00YzEwLWEyZTAtNjgzMzJkNWVmZTRkIiwidCI6IjZhY2IwNDlhLWQ1MTctNDhhMS1hNGJiLTc3ZTNlOTdlMTZhZCJ9
+
 ## 📈 Possíveis Extensões
 
 - [ ] Análise de sazonalidade por categoria
